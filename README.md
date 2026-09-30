@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Martin-Regan/LeetCodeV3/tree/main/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Martin-Regan/LeetCodeV3/tree/main/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Martin-Regan/LeetCodeV3/tree/main/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Martin-Regan/leetcode-sql-python/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Martin-Regan/LeetCodeV3/tree/main/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Martin-Regan/LeetCodeV3/tree/main/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Martin-Regan/LeetCodeV3/tree/main/1280-students-and-examinations) |
